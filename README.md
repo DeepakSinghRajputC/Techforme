@@ -4,7 +4,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="128">
     </picture>
-    <h1 align="center">Hashnode</h1>
+    <h1 align="center">DEEPAK 'S BLOG </h1>
   </a>
 </p>
 <p align="center">

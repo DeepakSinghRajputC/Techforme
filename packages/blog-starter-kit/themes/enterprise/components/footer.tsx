@@ -28,15 +28,6 @@ export const Footer = () => {
 					<div className="flex flex-col items-center gap-5 text-right text-slate-600 dark:text-neutral-300 md:text-left">
 						<SocialLinks />
 						<p>&copy; 2025 Techforme</p>
-						<p>
-							<a href="#" className="hover:underline">
-								Privacy Policy
-							</a>{' '}
-							·{' '}
-							<a href="#" className="hover:underline">
-								Terms
-							</a>
-						</p>
 					</div>
 				</div>
 			</Container>

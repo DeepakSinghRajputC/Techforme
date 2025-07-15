@@ -16,7 +16,6 @@ export default function MyApp({ Component, pageProps }: AppProps) {
     <>
       {/* ── 1) External Adsterra script ── */}
       <Script
-        // TODO: replace this src with your Adsterra URL
 		    async
         src="//pl27172667.profitableratecpm.com/9b/5d/07/9b5d07c3a41f5910dae525fec5997c75.js"
         strategy="afterInteractive"
